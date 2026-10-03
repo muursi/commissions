@@ -5,3 +5,5 @@
     script.setAttribute('data-goatcounter', 'https://muursi.goatcounter.com/count');
     document.head.appendChild(script);
 })();
+
+
